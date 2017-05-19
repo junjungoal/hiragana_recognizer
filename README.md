@@ -5,6 +5,8 @@ Installing the necessary libraries through requirement.txt
 ```
 pip install -r requirement.txt
 ```
+
+## Structure 
 |Layer Name| Description|
 |--|--|
 |conv1| convolutino and rectified linear activation|
